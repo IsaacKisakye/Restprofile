@@ -1,0 +1,24 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+li{
+    display: inline;
+}
+nav{
+    background-color: greenyellow;
+    text-align: center;
+    word-spacing:50mm;
+    spac
+}
+body{
+    background-color: skyblue;
+}
+img{
+    width: 1000px;
+    height: 500px;
+}
+
+h4{
+    display: inline;
